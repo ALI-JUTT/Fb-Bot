@@ -18,3 +18,5 @@ pip install bs4 futures
 cd Fb-Bot
 
 python auto.py
+
+![Screenshot_20240831-233443](https://github.com/user-attachments/assets/32439b25-f53d-4bcc-9416-3ef135939bc6)
