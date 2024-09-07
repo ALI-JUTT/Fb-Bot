@@ -8,4 +8,4 @@ pkg install python -y
 termux-setup-storage
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-python run.py
+python auto.py
